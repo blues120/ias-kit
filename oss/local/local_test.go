@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/blues120/ias-kit/oss"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
-	"gitlab.ctyuncdn.cn/ias/ias-kit/oss"
 )
 
 type LocalTestSuite struct {

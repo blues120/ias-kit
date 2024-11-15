@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/blues120/ias-kit/oss"
 	"github.com/google/uuid"
-	"gitlab.ctyuncdn.cn/ias/ias-kit/oss"
 )
 
 type local struct {

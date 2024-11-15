@@ -12,9 +12,9 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials"
+	"github.com/blues120/ias-kit/oss"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
-	"gitlab.ctyuncdn.cn/ias/ias-kit/oss"
 )
 
 type S3TestSuite struct {

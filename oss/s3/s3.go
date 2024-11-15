@@ -12,7 +12,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"gitlab.ctyuncdn.cn/ias/ias-kit/oss"
+	"github.com/blues120/ias-kit/oss"
 )
 
 const (
